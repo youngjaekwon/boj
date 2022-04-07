@@ -1,4 +1,4 @@
-package q_pyramid;
+package programers.q_pyramid;
 
 import java.util.HashMap;
 import java.util.Map;

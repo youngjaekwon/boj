@@ -1,4 +1,4 @@
-package q_openChat;
+package programers.q_openChat;
 
 import java.util.*;
 

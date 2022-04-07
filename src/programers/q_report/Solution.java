@@ -1,4 +1,4 @@
-package q_report;
+package programers.q_report;
 
 import java.util.ArrayList;
 import java.util.Arrays;

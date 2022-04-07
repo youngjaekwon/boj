@@ -1,4 +1,4 @@
-package q_cycle;
+package programers.q_cycle;
 
 import java.util.ArrayList;
 import java.util.Collections;

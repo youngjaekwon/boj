@@ -1,4 +1,4 @@
-package q_zipString;
+package programers.q_zipString;
 
 import java.util.ArrayList;
 import java.util.Collections;

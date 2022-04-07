@@ -1,6 +1,4 @@
-package q_recommendID;
-
-import java.util.Scanner;
+package programers.q_recommendID;
 
 class Solution {
     public String solution(String new_id) {

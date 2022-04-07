@@ -1,4 +1,4 @@
-package q_lottos;
+package programers.q_lottos;
 
 import java.util.ArrayList;
 import java.util.Arrays;
